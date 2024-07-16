@@ -72,3 +72,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - [OpenWeatherMap](https://openweathermap.org/) for providing the weather data API.
 - All the open-source contributors whose code and libraries were used in this project.
+- BharatIntern for providing this opportunity.
